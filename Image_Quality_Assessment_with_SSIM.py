@@ -1,16 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 19 15:24:32 2022
-
-@author: bakary
-"""
-
-"""
-Comparing images using ORB/SIFT feature detectors
-and structural similarity index. 
-"""
-
+# Import the neccessary libraries
 
 from skimage.metrics import structural_similarity
 import cv2
