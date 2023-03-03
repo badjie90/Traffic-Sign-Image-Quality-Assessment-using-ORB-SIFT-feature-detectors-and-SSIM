@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 15 13:42:19 2022
-
-@author: bakary
-"""
+# Import the necessary libraries
 
 import numpy as np
 from sewar import full_ref
